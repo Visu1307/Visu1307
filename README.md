@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Visu1307
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python, Android
+- 🌱 I’m currently learning Python, Java, C++
 - 💞️ I’m looking to collaborate on any programming languages
 - 📫 To reach me mail at bhattvishwas7@gmail.com
 - 📂 Please be advised that all public repositories available on my profile have been meticulously crafted by myself.
